@@ -1,4 +1,3 @@
-// server.js
 const express = require('express');
 const cors = require('cors'); // Import CORS
 const connectDB = require('./config/config.js'); // Ensure this file exists
